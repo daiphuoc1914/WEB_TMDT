@@ -54,13 +54,6 @@
     <div class="content-wrapper">
 
         <nav class="navbar navbar-expand navbar-light bg-white topbar mb-4 static-top shadow px-4">
-            <form class="d-none d-sm-inline-block form-inline me-auto my-2 my-md-0 mw-100">
-                <div class="input-group">
-                    <input type="text" class="form-control bg-light border-0 small" placeholder="Search..." aria-label="Search">
-                    <button class="btn btn-primary" type="button"><i class="bi bi-search"></i></button>
-                </div>
-            </form>
-
             <ul class="navbar-nav ms-auto align-items-center">
                 <li class="nav-item dropdown no-arrow">
                     <a class="nav-link dropdown-toggle d-flex align-items-center" href="#" id="userDropdown" role="button" data-bs-toggle="dropdown">
