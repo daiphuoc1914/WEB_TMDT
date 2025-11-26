@@ -3,7 +3,6 @@
 require_once 'inc/config.php';
 require_once 'inc/functions.php';
 
-// Đặt tiêu đề động (các trang sẽ set biến $page_title)
 $page_title = isset($page_title) ? $page_title . ' - ' : '';
 ?>
 <!DOCTYPE html>

@@ -57,9 +57,9 @@
 <!-- Thanh tìm kiếm (giữ nguyên, chỉ đẹp hơn) -->
 <div class="bg-white border-bottom shadow-sm">
     <div class="container py-3">
-        <form action="search.php" method="GET" class="d-flex">
-            <input type="text" name="q" class="form-control me-2" placeholder="Tìm kiếm sản phẩm..." required style="border-radius: 50px;">
-            <button class="btn btn-primary px-4" style="border-radius: 50px;">Tìm</button>
+        <form action="category.php" method="GET" class="d-flex w-100">
+            <input class="form-control me-2" type="search" name="search" placeholder="Tìm kiếm sản phẩm..." aria-label="Search" value="<?= isset($_GET['search']) ? htmlspecialchars($_GET['search']) : '' ?>">
+            <button class="btn btn-primary" type="submit">Tìm</button>
         </form>
     </div>
 </div>
