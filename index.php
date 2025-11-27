@@ -9,7 +9,7 @@ include 'header.php';
 <!-- Slider banner - ĐÃ CHỈNH MÀU ĐẸP HƠN -->
 <div class="text-white text-center position-relative overflow-hidden" style="background: linear-gradient(135deg, #1e40af 0%, #3b82f6 100%); padding: 100px 20px; min-height: 400px;">
     <div class="container position-relative z-3">
-        <h1 class="display-4 fw-bold mb-3">VPP Store - Văn Phòng Phẩm Chất Lượng Cao</h1>
+        <h1 class="display-4 fw-bold mb-3">StudyHub - Văn Phòng Phẩm Chất Lượng Cao</h1>
         <p class="lead fs-3 mb-4">Giao hàng nhanh toàn quốc</p>
         <a href="category.php?all=1" class="btn btn-warning btn-lg px-5 py-3 fw-bold shadow-lg">
             Mua Sắm Ngay

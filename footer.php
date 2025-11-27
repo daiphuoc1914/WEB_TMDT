@@ -3,7 +3,7 @@
         <div class="row gy-4">
             <!-- Cột 1: Thông tin cửa hàng -->
             <div class="col-lg-4 col-md-6">
-                <h4 class="text-danger fw-bold mb-3">VPP Store</h4>
+                <h4 class="text-danger fw-bold mb-3">StudyHub</h4>
                 <p class="small text-light">
                     Chuyên cung cấp văn phòng phẩm chất lượng cao, giá tốt nhất thị trường.<br>
                     Hỗ trợ giao hàng nhanh toàn quốc
@@ -13,7 +13,7 @@
                         <i class="fas fa-phone-alt me-2"></i> +84 900 000 000
                     </a><br>
                     <a href="mailto:vpp@hotro.com" class="text-white text-decoration-none">
-                        <i class="fas fa-envelope me-2"></i> vpp@hotro.com
+                        <i class="fas fa-envelope me-2"></i> stdh@hotro.com
                     </a>
                 </div>
             </div>
@@ -70,7 +70,7 @@
         <!-- Dòng cuối cùng -->
         <hr class="bg-secondary my-4">
         <div class="text-center small">
-            © 2025 <span class="text-danger fw-bold">VPP Store</span>. Đã đăng ký bản quyền. 
+            © 2025 <span class="text-danger fw-bold">StudyHub</span>. Đã đăng ký bản quyền. 
             Phát triển bởi <span class="text-danger">Nhóm 3</span>
         </div>
     </div>

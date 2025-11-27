@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-lg navbar-dark" style="background: linear-gradient(135deg, #1e40af, #3b82f6); box-shadow: 0 4px 12px rgba(0,0,0,0.15);" data-bs-theme="dark">
     <div class="container">
         <a class="navbar-brand fw-bold fs-4" href="index.php">
-            <span style="color:#fff;">VPP</span><span style="color:#fbbf24;">Store</span>
+            <span style="color:#fff;">Study</span><span style="color:#fbbf24;">Hub</span>
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
             <span class="navbar-toggler-icon"></span>
