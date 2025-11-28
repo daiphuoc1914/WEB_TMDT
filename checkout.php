@@ -211,7 +211,7 @@ function formatMoneyJS(number) {
     return number.toLocaleString('vi-VN') + ' ₫';
 }
 
-// Cập nhật phí ship và tổng tiền khi chọn (sửa lỗi formatMoney)
+// Cập nhật phí ship và tổng tiền khi chọn
 function updateShippingFee() {
     const select = document.getElementById('shipping');
     const feeEl = document.getElementById('shipping-fee');

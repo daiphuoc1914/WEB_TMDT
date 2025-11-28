@@ -38,6 +38,10 @@ if (!isset($_SESSION['id'])) {
             <li class="nav-item mb-2">
                 <a href="../user_management/index.php" class="nav-link text-white"><i class="bi bi-people"></i> Users</a>
             </li>
+            <li class="nav-item mb-2">
+                <a href="../order_management/index.php" class="nav-link text-white"><i class="bi bi-list"></i> Orders</a>
+            </li>
+
         </ul>
     </div>
 
